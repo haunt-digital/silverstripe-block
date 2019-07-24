@@ -15,7 +15,7 @@
         "silverstripe/framework": "3.*",
         "silverstripe/cms": "3.*",
         "salted-herring/silverstripe-standard-permissions": "~2.0.0",
-        "symbiote/silverstripe-gridfieldextensions": "2.0.2",
+        "symbiote/silverstripe-gridfieldextensions": "~2.0",
         "icecaster/versioned-gridfield": "dev-master",
         "micschk/silverstripe-rightsidebar": "~1.2"
     }
